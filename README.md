@@ -8,11 +8,11 @@ See description
 
     (Note that in Windows you need to include ``filename.exe`` in the path also)
 
-3. Sit back and run the script and curse this year's competition ;-(
-4. (Optional) Print to the console or use Pandas library to import this to a python list or whatever to sort it according to the rank.
-(I have a sorted version, let me know if you want)
+3. Sit back and run the script.
+4. (Optional)(For Better Understanding) Print to the console or use Pandas library to import this to a python list or whatever to sort it according to the rank.
+(I have a sorted version, Yes we want)
 
 # Why made this?
 Many people wanted to see the Marks vs Rank data for this year's PUMEET, so...
-Also this is me getting bored
+Also this is me getting bored and pissed off due to high competition.
 
