@@ -4,7 +4,7 @@ See description
 # How to use this?
 1. Install Selenium ``pip install selenium`` and Browser Webdriver [here](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/) 
 
-2. Put Chrome Webdriver's executable path in the path variable
+2. Put Browser Webdriver's executable path in the path variable
 
     (Note that in Windows you need to include ``filename.exe`` in the path also)
 
