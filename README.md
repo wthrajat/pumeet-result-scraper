@@ -12,7 +12,7 @@ See description
 4. (Optional) Print to the console or use Pandas library to import this to a python list or whatever to sort it according to the rank.
 (I have a sorted version, let me know if you want)
 
-# Why made this?
+# Why?
 Many people wanted to see the Marks vs Rank data for this year's PUMEET
 
 
