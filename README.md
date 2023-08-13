@@ -1,4 +1,4 @@
-![2023-08-13-22:29:46-screenshot](https://github.com/wthrajat/pumeet-result-scraper/assets/38693805/9359ccfc-5132-42d4-a6d8-9efb8955d98b)
+![2023-08-13-23:10:18-screenshot](https://github.com/wthrajat/pumeet-result-scraper/assets/38693805/19044a1a-7c5c-4280-b8ee-b93dade4cb5b)
 
 ## What is this?
 Python automation script to see rank, marks, name etc. of all the candidates who gave PUMEET exam
