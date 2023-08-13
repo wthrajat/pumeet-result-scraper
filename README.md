@@ -1,8 +1,9 @@
+![2023-08-13-22:29:46-screenshot](https://github.com/wthrajat/pumeet-result-scraper/assets/38693805/9359ccfc-5132-42d4-a6d8-9efb8955d98b)
+
 ## What is this?
 See description
 
 ## How to use this?
-
 Just run the script & see the output in the console/terminal
 
 ### Pre-requisites
@@ -17,8 +18,9 @@ Just run the script & see the output in the console/terminal
     # OR
     driver = webdriver.Firefox("/path/to/webdriver")
 ```
+4. (If you are on Windows, make sure to put `.exe` in the path, i.e., `driver = webdriver.Chrome("/path/to/webdriver.exe")`
 
-4. (Optional) Print to the console or use Pandas library to import this to a python list or whatever to sort it according to the rank.
+5. (Optional) Print to the console or use Pandas library to import this to a python list or whatever to sort it according to the rank.
 (Sorted version in `./assets`)
 
 ## Why?
