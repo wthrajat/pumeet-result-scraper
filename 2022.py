@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import time
 
 driver = webdriver.Chrome()
 driver.get("https://results.puexam.in/HomePage.aspx")
@@ -22,7 +21,7 @@ for roll in range(900001, 900394):
 
         print(rollNo + "," + name + "," + marks + "," + rank)
     else:
-        print(f"{roll} was absent lmao 2200 Rs ka choona")
+        print(f"{roll} was absent lmao 2200/- ka choona lag gaya!")
 
     driver.find_element(By.ID, "ctl00_cph1_btnBack").click()
 

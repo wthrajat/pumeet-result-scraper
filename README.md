@@ -1,7 +1,8 @@
 ![2023-08-13-22:29:46-screenshot](https://github.com/wthrajat/pumeet-result-scraper/assets/38693805/9359ccfc-5132-42d4-a6d8-9efb8955d98b)
 
 ## What is this?
-See description
+Python automation script to see rank, marks, name etc. of all the candidates who gave PUMEET exam
+- [PUMEET](https://pumeet.puchd.ac.in/) is an entrance examination for migration/department change across [Panjab University](https://puchd.ac.in) colleges 
 
 ## How to use this?
 Just run the script & see the output in the console/terminal
