@@ -16,17 +16,16 @@ for roll in range(900094, 900394):
     driver.find_element(By.ID, "ctl00_cph1_txtRollNo").clear()
     driver.find_element(By.ID, "ctl00_cph1_txtRollNo").send_keys(roll)
     driver.find_element(By.ID, "ctl00_cph1_btnShowResult").click()
+    name = driver.find_element(By.ID, "ctl00_cph1_lblCName").text
+    rollNo = driver.find_element(By.ID, "ctl00_cph1_lblRollNo").text
 
     if (("Not Qualified" not in driver.page_source) and ("Absent" not in driver.page_source)):
-        name = driver.find_element(By.ID, "ctl00_cph1_lblCName").text
         marks = driver.find_element(By.ID, "ctl00_cph1_lblMarks").text
         rank = driver.find_element(By.ID, "ctl00_cph1_lblRank").text
-        rollNo = driver.find_element(By.ID, "ctl00_cph1_lblRollNo").text
-
         line = "{:<10} {:<30} {:<10} {:<10}".format(rollNo, name, marks, rank)
         print(line)
     else:
-        print(f"{roll} was absent/disqualified, lmao 2200/- ka choona lag gaya!")
+        print(f"{roll} {name} was absent.") if ("Absent" in driver.page_source) else print(f"{roll} {name} did not qualify.")
     driver.find_element(By.ID, "ctl00_cph1_btnBack").click()
 
 print("="*70)
