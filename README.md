@@ -1,4 +1,4 @@
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Generic badge](https://img.shields.io/badge/fun-project-red.svg)](https://shields.io/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-yellow.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Generic badge](https://img.shields.io/badge/fun-project-red.svg)](https://shields.io/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-yellow.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 
 ## What is this?
 Python automation script to see rank, marks, name etc. of all the candidates who gave PUMEET exam
