@@ -1,8 +1,11 @@
-![2023-08-13-23:10:18-screenshot](https://github.com/wthrajat/pumeet-result-scraper/assets/38693805/19044a1a-7c5c-4280-b8ee-b93dade4cb5b)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Generic badge](https://img.shields.io/badge/fun-project-red.svg)](https://shields.io/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-yellow.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## What is this?
 Python automation script to see rank, marks, name etc. of all the candidates who gave PUMEET exam
-- [PUMEET](https://pumeet.puchd.ac.in/) is an entrance examination for migration/department change across [Panjab University](https://puchd.ac.in) colleges 
+- [PUMEET](https://pumeet.puchd.ac.in/) is an entrance examination for migration/department change across [Panjab University](https://puchd.ac.in) colleges
+  
+![2023-08-13-23:10:18-screenshot](https://github.com/wthrajat/pumeet-result-scraper/assets/38693805/19044a1a-7c5c-4280-b8ee-b93dade4cb5b)
+
 
 ## How to use this?
 Just run the script & see the output in the console/terminal
